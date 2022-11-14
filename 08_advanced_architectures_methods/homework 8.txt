@@ -1,0 +1,8 @@
+As a graduate student working with satellite remote sensing there are many areas that interests me for the use of AI. 
+One such task is downscaling satellite products to finer spatial resolution. For an example GRACE satellite mission 
+provides groundwater data that are captured and processed by GRACE mission. These groundwater products have a spatial resolution of around 50 square kilometers.
+ This spatial resolution is not good enough to capture local groundwater changes which needs a much smaller resolution. 
+Therefore AI technology can be used to downscale these coarse resolution data. In addition to GRACE groundwater products, I would use precipitation, evapotranspiration, 
+and groundwater level data from wells as input data for this project. I believe Artificial Neural Networks, Random forest method are two appropriate methods that will
+ help me downscale the GRACE product. Measuring success will be a difficult task as there aren’t many groundwater products to compare downscaled data. However, we can 
+use statistical matrices such as, standard deviation and Root Mean Square Error for calculating accuracy and assessing success.
